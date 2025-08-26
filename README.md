@@ -120,7 +120,7 @@ If you simply want the trained XGBoost from the notebook and to run quick predic
 - Dataset filename: `bs140513_032310.csv` (Kaggle / Blackboard context).
 
 ## License
-MIT (or your preferred license).
+MIT.
 
 ---
 
